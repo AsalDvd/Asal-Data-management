@@ -1,0 +1,2 @@
+- ls : for seeing the complete list of files.
+- cat : for reading data from files.
